@@ -96,10 +96,10 @@ theme_mode: dark
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: https://cdn.seiq.fun
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.discordapp.com/attachments/1138639740611076298/1275498577300422696/logo_fantasy-removebg-preview.png?ex=66d34b1e&is=66d1f99e&hm=26d87464b6d7d73a0788eeed749aa63040c70abb2a3cb3e55682182fe89bcba3&
+avatar: https://cdn.seiq.fun/assets/img/seiq.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
